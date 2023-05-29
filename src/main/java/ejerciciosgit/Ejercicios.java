@@ -106,6 +106,12 @@ public class Ejercicios {
 
         System.out.println("La división de " + a + " entre " + b + " es: " + resultado);
     }
+    public static void nombreRaph   () {
+
+
+        System.out.println("mi nombre es Rafa");
+    }
+
 
     public static void nombreLuisa() {
         // Se debe cambiar el valor de la variable vehiculo
