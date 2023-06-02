@@ -117,4 +117,9 @@ public class Ejercicios {
         // Se debe cambiar el valor de la variable vehiculo
          System.out.println("Mi nombre es Luisa");
 }
+
+    public static void nombreCathe() {
+        // Se debe cambiar el valor de la variable Catherine Perez
+        System.out.println("Mi nombre es Catherine Pérez");
+    }
 }
